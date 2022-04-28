@@ -1,0 +1,124 @@
+/*
+*{
+  margin:0;
+  padding:0;
+}
+*/
+body {
+	background-color: #16272e;
+	color: #2da8d8ff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	/* la fel ca sus numa ca mai scurt */
+	font: bold 15px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+}
+.container {
+	width: 65%;
+	margin: auto;
+	margin-top: 50px;
+}
+.box-1 {
+	color: aqua;
+	background-color: black;
+	border: 5px aqua solid;
+	border-width: 6px;
+	border-style: inset;
+	padding: 10px;
+	border-radius: 50px;
+}
+.container-2 {
+	width: 25%;
+	margin-left: 20px;
+}
+.box-2 {
+	color: aqua;
+	background-color: black;
+	border: 5px aqua solid;
+	border-width: 6px;
+	border-style: outset;
+	padding: 10px;
+	border-radius: 50px;
+}
+.img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border: 5px aqua solid;
+	border-width: 6px;
+	border-style: ridge;
+	padding: 0px;
+}
+.box-1 h1 {
+	font-family: Tahoma;
+	font-weight: 800;
+	font-style: italic;
+	text-decoration: underline;
+}
+.box-2 h2 {
+	font-family: Tahoma;
+	font-weight: 800;
+	font-style: italic;
+}
+.categories {
+	color: aqua;
+	background-color: black;
+	border: 5px aqua solid;
+	border-width: 6px;
+	border-style: outset;
+	padding: 10px;
+	border-radius: 50px;
+	width: 25%;
+	margin-left: 925px;
+}
+.categories ul {
+	padding: 10px;
+	list-style: disc;
+}
+a {
+	text-decoration: none;
+	color: aqua;
+}
+a:hover {
+	color: rgb(236, 58, 45);
+}
+
+.form {
+	padding: 15px;
+	color: aqua;
+	background-color: black;
+	border: 5px aqua solid;
+	border-width: 6px;
+	border-style: inset;
+	border-radius: 50px;
+	width: 25%;
+	margin-left: 20px;
+}
+.form .form-group {
+	padding-bottom: 10px;
+}
+.form label {
+	display: block;
+}
+.form input[type="text"] {
+	padding: 5px;
+	width: 60%;
+}
+.button {
+	background-color: aqua;
+	color: white;
+	padding: 10px 15px;
+	border: 2px aqua solid;
+	border-width: 4px;
+	border-style: outset;
+}
+.button:hover {
+	background: rgb(236, 58, 45);
+	color: white;
+	border: 2px rgb(236, 58, 45);
+	border-width: 4px;
+	border-style: outset;
+}
