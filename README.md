@@ -3,7 +3,6 @@
     - ⚡ I am a student and i want to become a Frontend Developer;
     - 🔭 I’m currently working on my first project;
     - 🌱 I’m currently learning HTML,CSS & JS;
-    - 💬 Ask me about anything that you want;
     - 📫 How to reach me: Cat_Vaping#8546 (Discord) & craceacarlos (Instagram);
 <!--
 **CatVaping/CatVaping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
